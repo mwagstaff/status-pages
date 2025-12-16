@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "title": "TfL API disruption",
+  "message": "Data is currently unavailable due to a disruption in the TfL API. We have escalated the issue to TfL in the hope that they can resolve it as quickly as possible. We apologize for any inconvenience caused.",
+  "severity": "error",
+  "updatedAt": "2025-12-16T10:30:00Z"
+}
