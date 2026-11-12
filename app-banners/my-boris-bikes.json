@@ -2,6 +2,6 @@
   "enabled": true,
   "title": "Planned Santander Cycles upgrade work",
   "message": "Santander Cycles will be unavailable from Friday, November 13th - Tuesday, November 17th due to dock and app upgrade work.",
-  "severity": "warn",
+  "severity": "warning",
   "updatedAt": "2026-11-12T00:04:00Z"
 }
