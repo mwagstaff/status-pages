@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "title": "Planned Santander Cycles upgrade work",
-  "message": "Santander Cycles will be unavailable for hire from 9pm on Friday, November 13th - Tuesday, November 17th due to planned dock and app upgrade work.",
+  "message": "Santander Cycles are currently unavailable for hire due to planned dock and app upgrade work. Restoration of service may happen by 9pm tonight (Monday, November 16th) but if not, the official ETA is 9pm tomorrow (Tuesday).",
   "severity": "warning",
   "updatedAt": "2026-11-12T00:04:00Z"
 }
