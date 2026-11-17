@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "title": "Planned Santander Cycles upgrade work",
   "message": "Santander Cycles are officially unavailable for hire until 21:00 today (November 17th) due to planned dock and app upgrade work. There are reports, however, of bikes now being available to hire.",
   "severity": "warning",
